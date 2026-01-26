@@ -1,4 +1,4 @@
-# FastAPI + OpenAI LLM API Demo
+# fastapi + openai llm api demo
 
 Small demo service: sends a question to an OpenAI model and returns a structured JSON response.
 Think of the LLM as a warehouse assistant: you send a note, it walks the aisles, fills the basket, and comes back with an answer — plus a receipt.
